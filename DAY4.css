@@ -1,14 +1,14 @@
-/*.no{
-	width: 99.2%;
-	height: 80px;
-}*/
+body{
+	padding: 0px;
+	margin: 0px;
+}
 header{
 	background-color:#eaf2ff;
 	height: 80px;
 	border: 2px solid black;
 	padding-top: 0px;
 	position: fixed;
-	width: 98.4%;
+	width: 99.7%;
     font-family: sniglet;
 }
 .box1{
